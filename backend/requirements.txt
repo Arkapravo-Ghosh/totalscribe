@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sse-starlette
+torch
+librosa
+transformers
+soundfile
+psutil
+distro
+accelerate
