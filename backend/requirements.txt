@@ -8,3 +8,4 @@ soundfile
 psutil
 distro
 accelerate
+python-multipart
